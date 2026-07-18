@@ -8,3 +8,6 @@
 [submodule "GammaFrailty"]
 	path = GammaFrailty
 	url = https://github.com/cran/GammaFrailty
+[submodule "UniCensor"]
+	path = UniCensor
+	url = https://github.com/cran/UniCensor
