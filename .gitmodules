@@ -8,6 +8,9 @@
 [submodule "GammaFrailty"]
 	path = GammaFrailty
 	url = https://github.com/cran/GammaFrailty
+[submodule "MAARTS"]
+	path = MAARTS
+	url = https://github.com/cran/MAARTS
 [submodule "MleCensoR"]
 	path = MleCensoR
 	url = https://github.com/cran/MleCensoR
