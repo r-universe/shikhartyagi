@@ -17,3 +17,6 @@
 [submodule "UniCensor"]
 	path = UniCensor
 	url = https://github.com/cran/UniCensor
+[submodule "UniCensorEM"]
+	path = UniCensorEM
+	url = https://github.com/cran/UniCensorEM
