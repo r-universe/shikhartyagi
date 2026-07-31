@@ -17,9 +17,15 @@
 [submodule "MleCensoR"]
 	path = MleCensoR
 	url = https://github.com/cran/MleCensoR
+[submodule "StochFracPoisson"]
+	path = StochFracPoisson
+	url = https://github.com/cran/StochFracPoisson
 [submodule "UniCensor"]
 	path = UniCensor
 	url = https://github.com/cran/UniCensor
 [submodule "UniCensorEM"]
 	path = UniCensorEM
 	url = https://github.com/cran/UniCensorEM
+[submodule "gofmalm"]
+	path = gofmalm
+	url = https://github.com/cran/gofmalm
