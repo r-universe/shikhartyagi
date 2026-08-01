@@ -26,6 +26,9 @@
 [submodule "UniCensorEM"]
 	path = UniCensorEM
 	url = https://github.com/cran/UniCensorEM
+[submodule "coxmnar"]
+	path = coxmnar
+	url = https://github.com/cran/coxmnar
 [submodule "gofmalm"]
 	path = gofmalm
 	url = https://github.com/cran/gofmalm
