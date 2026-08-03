@@ -11,6 +11,9 @@
 [submodule "GammaFrailty"]
 	path = GammaFrailty
 	url = https://github.com/cran/GammaFrailty
+[submodule "Gofpt2"]
+	path = Gofpt2
+	url = https://github.com/cran/Gofpt2
 [submodule "MAARTS"]
 	path = MAARTS
 	url = https://github.com/cran/MAARTS
