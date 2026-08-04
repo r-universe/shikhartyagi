@@ -20,6 +20,9 @@
 [submodule "MleCensoR"]
 	path = MleCensoR
 	url = https://github.com/cran/MleCensoR
+[submodule "ProcessCapabilityR"]
+	path = ProcessCapabilityR
+	url = https://github.com/cran/ProcessCapabilityR
 [submodule "StochFracPoisson"]
 	path = StochFracPoisson
 	url = https://github.com/cran/StochFracPoisson
