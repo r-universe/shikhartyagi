@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "AdaptHyCensor"]
+	path = AdaptHyCensor
+	url = https://github.com/cran/AdaptHyCensor
 [submodule "AlphaPowerHazard"]
 	path = AlphaPowerHazard
 	url = https://github.com/cran/AlphaPowerHazard
@@ -35,6 +38,9 @@
 [submodule "coxmnar"]
 	path = coxmnar
 	url = https://github.com/cran/coxmnar
+[submodule "gofPHCS"]
+	path = gofPHCS
+	url = https://github.com/cran/gofPHCS
 [submodule "gofmalm"]
 	path = gofmalm
 	url = https://github.com/cran/gofmalm
