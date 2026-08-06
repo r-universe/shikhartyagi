@@ -11,15 +11,27 @@
 [submodule "ArvindSt"]
 	path = ArvindSt
 	url = https://github.com/shikhartyagi/arvindst
+[submodule "BayesQRCount"]
+	path = BayesQRCount
+	url = https://github.com/cran/BayesQRCount
+[submodule "CompRiskRel"]
+	path = CompRiskRel
+	url = https://github.com/cran/CompRiskRel
 [submodule "GammaFrailty"]
 	path = GammaFrailty
 	url = https://github.com/cran/GammaFrailty
 [submodule "Gofpt2"]
 	path = Gofpt2
 	url = https://github.com/cran/Gofpt2
+[submodule "LugsailGR"]
+	path = LugsailGR
+	url = https://github.com/cran/LugsailGR
 [submodule "MAARTS"]
 	path = MAARTS
 	url = https://github.com/cran/MAARTS
+[submodule "MYIS"]
+	path = MYIS
+	url = https://github.com/cran/MYIS
 [submodule "MleCensoR"]
 	path = MleCensoR
 	url = https://github.com/cran/MleCensoR
@@ -29,6 +41,9 @@
 [submodule "StochFracPoisson"]
 	path = StochFracPoisson
 	url = https://github.com/cran/StochFracPoisson
+[submodule "StressCensoR"]
+	path = StressCensoR
+	url = https://github.com/cran/StressCensoR
 [submodule "UniCensor"]
 	path = UniCensor
 	url = https://github.com/cran/UniCensor
@@ -44,3 +59,6 @@
 [submodule "gofmalm"]
 	path = gofmalm
 	url = https://github.com/cran/gofmalm
+[submodule "predHCS"]
+	path = predHCS
+	url = https://github.com/cran/predHCS
