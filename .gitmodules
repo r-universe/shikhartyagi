@@ -11,9 +11,21 @@
 [submodule "ArvindSt"]
 	path = ArvindSt
 	url = https://github.com/shikhartyagi/arvindst
+[submodule "BDPTobitQR"]
+	path = BDPTobitQR
+	url = https://github.com/cran/BDPTobitQR
+[submodule "BayesPanelUR"]
+	path = BayesPanelUR
+	url = https://github.com/cran/BayesPanelUR
 [submodule "BayesQRCount"]
 	path = BayesQRCount
 	url = https://github.com/cran/BayesQRCount
+[submodule "BayesSplineUR"]
+	path = BayesSplineUR
+	url = https://github.com/cran/BayesSplineUR
+[submodule "BayesURTrend"]
+	path = BayesURTrend
+	url = https://github.com/cran/BayesURTrend
 [submodule "CompRiskRel"]
 	path = CompRiskRel
 	url = https://github.com/cran/CompRiskRel
@@ -50,6 +62,12 @@
 [submodule "UniCensorEM"]
 	path = UniCensorEM
 	url = https://github.com/cran/UniCensorEM
+[submodule "UniIS"]
+	path = UniIS
+	url = https://github.com/cran/UniIS
+[submodule "UniLindleyApprox"]
+	path = UniLindleyApprox
+	url = https://github.com/cran/UniLindleyApprox
 [submodule "coxmnar"]
 	path = coxmnar
 	url = https://github.com/cran/coxmnar
