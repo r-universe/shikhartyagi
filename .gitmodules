@@ -29,12 +29,18 @@
 [submodule "CompRiskRel"]
 	path = CompRiskRel
 	url = https://github.com/cran/CompRiskRel
+[submodule "DepDoubleTruncKS"]
+	path = DepDoubleTruncKS
+	url = https://github.com/cran/DepDoubleTruncKS
 [submodule "GammaFrailty"]
 	path = GammaFrailty
 	url = https://github.com/cran/GammaFrailty
 [submodule "Gofpt2"]
 	path = Gofpt2
 	url = https://github.com/cran/Gofpt2
+[submodule "ImpAdaptType2Censor"]
+	path = ImpAdaptType2Censor
+	url = https://github.com/cran/ImpAdaptType2Censor
 [submodule "LugsailGR"]
 	path = LugsailGR
 	url = https://github.com/cran/LugsailGR
@@ -47,15 +53,27 @@
 [submodule "MleCensoR"]
 	path = MleCensoR
 	url = https://github.com/cran/MleCensoR
+[submodule "MultiFrailty"]
+	path = MultiFrailty
+	url = https://github.com/cran/MultiFrailty
+[submodule "MultiStepSSAD"]
+	path = MultiStepSSAD
+	url = https://github.com/cran/MultiStepSSAD
 [submodule "ProcessCapabilityR"]
 	path = ProcessCapabilityR
 	url = https://github.com/cran/ProcessCapabilityR
+[submodule "SemiParamBernsteinDepCS"]
+	path = SemiParamBernsteinDepCS
+	url = https://github.com/cran/SemiParamBernsteinDepCS
 [submodule "StochFracPoisson"]
 	path = StochFracPoisson
 	url = https://github.com/cran/StochFracPoisson
 [submodule "StressCensoR"]
 	path = StressCensoR
 	url = https://github.com/cran/StressCensoR
+[submodule "TKApprox"]
+	path = TKApprox
+	url = https://github.com/cran/TKApprox
 [submodule "UniCensor"]
 	path = UniCensor
 	url = https://github.com/cran/UniCensor
@@ -77,6 +95,15 @@
 [submodule "gofmalm"]
 	path = gofmalm
 	url = https://github.com/cran/gofmalm
+[submodule "gpciImpSam"]
+	path = gpciImpSam
+	url = https://github.com/cran/gpciImpSam
+[submodule "gpciProgTyII"]
+	path = gpciProgTyII
+	url = https://github.com/cran/gpciProgTyII
+[submodule "gpciProgTyIIImpSam"]
+	path = gpciProgTyIIImpSam
+	url = https://github.com/cran/gpciProgTyIIImpSam
 [submodule "predHCS"]
 	path = predHCS
 	url = https://github.com/cran/predHCS
