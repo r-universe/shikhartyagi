@@ -35,6 +35,9 @@
 [submodule "GammaFrailty"]
 	path = GammaFrailty
 	url = https://github.com/cran/GammaFrailty
+[submodule "GammaFrailtySPC"]
+	path = GammaFrailtySPC
+	url = https://github.com/cran/GammaFrailtySPC
 [submodule "Gofpt2"]
 	path = Gofpt2
 	url = https://github.com/cran/Gofpt2
@@ -65,6 +68,9 @@
 [submodule "SemiParamBernsteinDepCS"]
 	path = SemiParamBernsteinDepCS
 	url = https://github.com/cran/SemiParamBernsteinDepCS
+[submodule "SingRegKrig"]
+	path = SingRegKrig
+	url = https://github.com/cran/SingRegKrig
 [submodule "StochFracPoisson"]
 	path = StochFracPoisson
 	url = https://github.com/cran/StochFracPoisson
@@ -95,9 +101,15 @@
 [submodule "gofmalm"]
 	path = gofmalm
 	url = https://github.com/cran/gofmalm
+[submodule "gpciEMprogII"]
+	path = gpciEMprogII
+	url = https://github.com/cran/gpciEMprogII
 [submodule "gpciImpSam"]
 	path = gpciImpSam
 	url = https://github.com/cran/gpciImpSam
+[submodule "gpciIntCensor"]
+	path = gpciIntCensor
+	url = https://github.com/cran/gpciIntCensor
 [submodule "gpciProgTyII"]
 	path = gpciProgTyII
 	url = https://github.com/cran/gpciProgTyII
