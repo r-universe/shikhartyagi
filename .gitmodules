@@ -56,6 +56,9 @@
 [submodule "MleCensoR"]
 	path = MleCensoR
 	url = https://github.com/cran/MleCensoR
+[submodule "ModToppLeone"]
+	path = ModToppLeone
+	url = https://github.com/cran/ModToppLeone
 [submodule "MultiFrailty"]
 	path = MultiFrailty
 	url = https://github.com/cran/MultiFrailty
@@ -95,6 +98,9 @@
 [submodule "coxmnar"]
 	path = coxmnar
 	url = https://github.com/cran/coxmnar
+[submodule "gofLorenz"]
+	path = gofLorenz
+	url = https://github.com/cran/gofLorenz
 [submodule "gofPHCS"]
 	path = gofPHCS
 	url = https://github.com/cran/gofPHCS
