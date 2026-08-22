@@ -8,9 +8,15 @@
 [submodule "AlphaPowerHazard"]
 	path = AlphaPowerHazard
 	url = https://github.com/cran/AlphaPowerHazard
+[submodule "ArvindRF"]
+	path = ArvindRF
+	url = https://github.com/cran/ArvindRF
 [submodule "ArvindSt"]
 	path = ArvindSt
 	url = https://github.com/shikhartyagi/arvindst
+[submodule "AugBalWeight"]
+	path = AugBalWeight
+	url = https://github.com/cran/AugBalWeight
 [submodule "BDPTobitQR"]
 	path = BDPTobitQR
 	url = https://github.com/cran/BDPTobitQR
@@ -29,6 +35,9 @@
 [submodule "CompRiskRel"]
 	path = CompRiskRel
 	url = https://github.com/cran/CompRiskRel
+[submodule "CoxAalenCR"]
+	path = CoxAalenCR
+	url = https://github.com/cran/CoxAalenCR
 [submodule "DepDoubleTruncKS"]
 	path = DepDoubleTruncKS
 	url = https://github.com/cran/DepDoubleTruncKS
@@ -50,6 +59,9 @@
 [submodule "MAARTS"]
 	path = MAARTS
 	url = https://github.com/cran/MAARTS
+[submodule "MTLRF"]
+	path = MTLRF
+	url = https://github.com/cran/MTLRF
 [submodule "MYIS"]
 	path = MYIS
 	url = https://github.com/cran/MYIS
@@ -65,6 +77,12 @@
 [submodule "MultiStepSSAD"]
 	path = MultiStepSSAD
 	url = https://github.com/cran/MultiStepSSAD
+[submodule "OneShotEM"]
+	path = OneShotEM
+	url = https://github.com/cran/OneShotEM
+[submodule "PowerXgammaRF"]
+	path = PowerXgammaRF
+	url = https://github.com/cran/PowerXgammaRF
 [submodule "ProcessCapabilityR"]
 	path = ProcessCapabilityR
 	url = https://github.com/cran/ProcessCapabilityR
@@ -83,6 +101,9 @@
 [submodule "TKApprox"]
 	path = TKApprox
 	url = https://github.com/cran/TKApprox
+[submodule "TieFreeCensor"]
+	path = TieFreeCensor
+	url = https://github.com/cran/TieFreeCensor
 [submodule "UniCensor"]
 	path = UniCensor
 	url = https://github.com/cran/UniCensor
@@ -116,12 +137,33 @@
 [submodule "gpciIntCensor"]
 	path = gpciIntCensor
 	url = https://github.com/cran/gpciIntCensor
+[submodule "gpciLindleyApprox"]
+	path = gpciLindleyApprox
+	url = https://github.com/cran/gpciLindleyApprox
 [submodule "gpciProgTyII"]
 	path = gpciProgTyII
 	url = https://github.com/cran/gpciProgTyII
 [submodule "gpciProgTyIIImpSam"]
 	path = gpciProgTyIIImpSam
 	url = https://github.com/cran/gpciProgTyIIImpSam
+[submodule "gpcihybridII"]
+	path = gpcihybridII
+	url = https://github.com/cran/gpcihybridII
+[submodule "gpcihybridIIEM"]
+	path = gpcihybridIIEM
+	url = https://github.com/cran/gpcihybridIIEM
+[submodule "gpcihybridIIImpSam"]
+	path = gpcihybridIIImpSam
+	url = https://github.com/cran/gpcihybridIIImpSam
+[submodule "gpcihybridIILinApp"]
+	path = gpcihybridIILinApp
+	url = https://github.com/cran/gpcihybridIILinApp
+[submodule "gpcihybridIImcmc"]
+	path = gpcihybridIImcmc
+	url = https://github.com/cran/gpcihybridIImcmc
+[submodule "pHMC"]
+	path = pHMC
+	url = https://github.com/cran/pHMC
 [submodule "predHCS"]
 	path = predHCS
 	url = https://github.com/cran/predHCS
