@@ -50,6 +50,9 @@
 [submodule "Gofpt2"]
 	path = Gofpt2
 	url = https://github.com/cran/Gofpt2
+[submodule "IGPFrailty"]
+	path = IGPFrailty
+	url = https://github.com/cran/IGPFrailty
 [submodule "ImpAdaptType2Censor"]
 	path = ImpAdaptType2Censor
 	url = https://github.com/cran/ImpAdaptType2Censor
