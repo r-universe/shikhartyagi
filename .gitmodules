@@ -140,6 +140,9 @@
 [submodule "gpciIntCensor"]
 	path = gpciIntCensor
 	url = https://github.com/cran/gpciIntCensor
+[submodule "gpciLindApproxProgII"]
+	path = gpciLindApproxProgII
+	url = https://github.com/cran/gpciLindApproxProgII
 [submodule "gpciLindleyApprox"]
 	path = gpciLindleyApprox
 	url = https://github.com/cran/gpciLindleyApprox
