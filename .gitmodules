@@ -131,6 +131,9 @@
 [submodule "gofmalm"]
 	path = gofmalm
 	url = https://github.com/cran/gofmalm
+[submodule "gpci"]
+	path = gpci
+	url = https://github.com/cran/gpci
 [submodule "gpciEMprogII"]
 	path = gpciEMprogII
 	url = https://github.com/cran/gpciEMprogII
