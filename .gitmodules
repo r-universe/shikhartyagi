@@ -41,6 +41,9 @@
 [submodule "DepDoubleTruncKS"]
 	path = DepDoubleTruncKS
 	url = https://github.com/cran/DepDoubleTruncKS
+[submodule "FrailtyPackPlus"]
+	path = FrailtyPackPlus
+	url = https://github.com/cran/FrailtyPackPlus
 [submodule "GammaFrailty"]
 	path = GammaFrailty
 	url = https://github.com/cran/GammaFrailty
